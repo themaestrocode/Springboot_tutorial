@@ -1,0 +1,29 @@
+# General
+target/
+*.class
+*.log
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Build tools
+*.jar
+*.war
+*.ear
+
+# Spring Boot configuration files
+src/main/resources/application*.properties
+src/main/resources/application*.yml
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.settings/
+bin/
+
